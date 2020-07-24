@@ -1,0 +1,17 @@
+{
+  "name": "js-input-spinner",
+  "version": "1.0.0",
+  "description": "Vanilla JS input spinner",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel ./index.html",
+    "build": "parcel build index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Samat Zhetibaev",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4",
+    "sass": "^1.26.10"
+  }
+}
